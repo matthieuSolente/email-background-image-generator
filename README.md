@@ -16,5 +16,5 @@ In Outlook, a crop function, which allows you to crop the image, does exist in V
 If you specify a block height lower than the default height of your image, it won't be cropped, but Outlook will squash the image to fit within the specified height. It will therefore be shrunk.
 
 To avoid having a shrunken or distorted image, for VML, you must provide an image: 
--either with intrinsic proportions and specify the corresponding width and height for the block, 
--or in retina mode (x2 or more), but always maintaining the original proportions. Without this precaution, your image risks being shriveled.
+- either with intrinsic proportions and specify the corresponding width and height for the block, 
+- or in retina mode (x2 or more), but always maintaining the original proportions. Without this precaution, your image risks being shriveled.
