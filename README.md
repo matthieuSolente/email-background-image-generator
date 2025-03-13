@@ -22,3 +22,9 @@ If you specify a block height lower than the default height of your image, it wo
 To avoid having a shrunken or distorted image, for VML, you must provide an image: 
 - either with intrinsic proportions and specify the corresponding width and height for the block, 
 - or in retina mode (x2 or more), but always maintaining the original proportions. Without this precaution, your image risks being shriveled.
+
+
+## Alternatives
+
+If you want to create absolute positioning, check out this [other generator](https://github.com/matthieuSolente/email-faux-absolute-background-image-generator) instead.
+And if Outlook accessibility is a priority, use [mso properties](https://github.com/matthieuSolente/mso-faux-absolute-generator) to create your background image instead!
