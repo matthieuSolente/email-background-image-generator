@@ -26,5 +26,5 @@ To avoid having a shrunken or distorted image, for VML, you must provide an imag
 
 ## Alternatives
 
-If you want to create absolute positioning, check out this [other generator](https://github.com/matthieuSolente/email-faux-absolute-background-image-generator) instead.
-And if Outlook accessibility is a priority, use [mso properties](https://github.com/matthieuSolente/mso-faux-absolute-generator) to create your background image instead!
+- If you want to create absolute positioning, check out this [other generator](https://github.com/matthieuSolente/email-faux-absolute-background-image-generator) instead.
+- And if Outlook accessibility is a priority, use [mso properties](https://github.com/matthieuSolente/mso-faux-absolute-generator) to create your background image instead!
